@@ -5,24 +5,30 @@ The following image shows the code used in this chapter. In this section, we wil
 
 # Student Information Code
 This code is used to collect student information from TextBox controls and display the information in a Label.
+
 # Creating Variables
 String studentname, department;
 int studentid, semester;
 These variables are created to store the student's name, student ID, department, and semester.
 String stores text values.
 int stores whole numbers.
+
 # Reading Student Name
 studentname = txtstudentname.Text;
 This gets the student name entered in the txtstudentname TextBox and stores it in the studentname variable.
+
 # Reading Student ID
 studentid = int.Parse(txtstudentid.Text);
 This gets the student ID from the TextBox and converts the entered text into an integer using int.Parse().
+
 # Reading Department
 department = txtdepartment.Text;
 This gets the department entered by the user and stores it in the department variable.
+
 # Reading Semester
 semester = int.Parse(txtsemester.Text);
 This gets the semester from the TextBox and converts the entered text into an integer.
+
 # Displaying the Information
 lbloutput.Text = studentname + " " + studentid + " " + department + " " + semester;
 This combines all the student information and displays it in the lbloutput Label.
