@@ -1,4 +1,3 @@
-# c#_practice_Repo
 # C# PROGRAMING LANGUAGE 
 # Chapter One – Introduction to Visual C#
 
