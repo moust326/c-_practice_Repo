@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\hotel_room_booking_calculate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8822A03E-C33E-497F-B4FF-D4E2D56FFD9E}|hotel_room_booking_calculate\\hotel_room_booking_calculate.csproj|c:\\users\\hp\\desktop\\c#tasks file\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8822A03E-C33E-497F-B4FF-D4E2D56FFD9E}|hotel_room_booking_calculate\\hotel_room_booking_calculate.csproj|solutionrelative:hotel_room_booking_calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8822A03E-C33E-497F-B4FF-D4E2D56FFD9E}|hotel_room_booking_calculate\\hotel_room_booking_calculate.csproj|c:\\users\\hp\\desktop\\c#tasks file\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8822A03E-C33E-497F-B4FF-D4E2D56FFD9E}|hotel_room_booking_calculate\\hotel_room_booking_calculate.csproj|solutionrelative:hotel_room_booking_calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\Form1.cs",
+              "RelativeDocumentMoniker": "hotel_room_booking_calculate\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\Form1.cs",
+              "RelativeToolTip": "hotel_room_booking_calculate\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAB6s1IhwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:51:53.832Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\Form1.cs",
+              "RelativeDocumentMoniker": "hotel_room_booking_calculate\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\Form1.cs [Design]",
+              "RelativeToolTip": "hotel_room_booking_calculate\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T16:17:55.34Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

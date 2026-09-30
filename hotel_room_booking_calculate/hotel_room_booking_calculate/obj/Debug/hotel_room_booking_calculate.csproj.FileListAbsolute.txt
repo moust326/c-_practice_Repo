@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\C#TASKS FILE\hotel_room_booking_calculate\hotel_room_booking_calculate\bin\Debug\hotel_room_booking_calculate.exe
+C:\Users\HP\Desktop\C#TASKS FILE\hotel_room_booking_calculate\hotel_room_booking_calculate\bin\Debug\hotel_room_booking_calculate.exe.config
+C:\Users\HP\Desktop\C#TASKS FILE\hotel_room_booking_calculate\hotel_room_booking_calculate\obj\Debug\hotel_room_booking_calculate.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#TASKS FILE\hotel_room_booking_calculate\hotel_room_booking_calculate\obj\Debug\hotel_room_booking_calculate.Form1.resources
+C:\Users\HP\Desktop\C#TASKS FILE\hotel_room_booking_calculate\hotel_room_booking_calculate\obj\Debug\hotel_room_booking_calculate.Properties.Resources.resources
+C:\Users\HP\Desktop\C#TASKS FILE\hotel_room_booking_calculate\hotel_room_booking_calculate\obj\Debug\hotel_room_booking_calculate.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#TASKS FILE\hotel_room_booking_calculate\hotel_room_booking_calculate\obj\Debug\hotel_room_booking_calculate.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#TASKS FILE\hotel_room_booking_calculate\hotel_room_booking_calculate\obj\Debug\hotel_room_booking_calculate.exe
+C:\Users\HP\Desktop\C#TASKS FILE\hotel_room_booking_calculate\hotel_room_booking_calculate\obj\Debug\hotel_room_booking_calculate.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\hotel_room_booking_calculate\hotel_room_booking_calculate\obj\Debug\hotel_room_booking_calculate.exe.config
+C:\Users\HP\Desktop\C#TASKS FILE\hotel_room_booking_calculate\hotel_room_booking_calculate\bin\Debug\hotel_room_booking_calculate.pdb
