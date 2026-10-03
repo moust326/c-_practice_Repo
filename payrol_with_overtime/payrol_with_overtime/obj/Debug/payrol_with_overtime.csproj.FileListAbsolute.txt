@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#TASKS FILE\payrol_with_overtime\payrol_with_overtime\bin\Debug\payrol_with_overtime.exe.config
+C:\Users\HP\Desktop\C#TASKS FILE\payrol_with_overtime\payrol_with_overtime\bin\Debug\payrol_with_overtime.exe
+C:\Users\HP\Desktop\C#TASKS FILE\payrol_with_overtime\payrol_with_overtime\bin\Debug\payrol_with_overtime.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\payrol_with_overtime\payrol_with_overtime\obj\Debug\payrol_with_overtime.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#TASKS FILE\payrol_with_overtime\payrol_with_overtime\obj\Debug\payrol_with_overtime.Form1.resources
+C:\Users\HP\Desktop\C#TASKS FILE\payrol_with_overtime\payrol_with_overtime\obj\Debug\payrol_with_overtime.Properties.Resources.resources
+C:\Users\HP\Desktop\C#TASKS FILE\payrol_with_overtime\payrol_with_overtime\obj\Debug\payrol_with_overtime.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#TASKS FILE\payrol_with_overtime\payrol_with_overtime\obj\Debug\payrol_with_overtime.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#TASKS FILE\payrol_with_overtime\payrol_with_overtime\obj\Debug\payrol_with_overtime.exe
+C:\Users\HP\Desktop\C#TASKS FILE\payrol_with_overtime\payrol_with_overtime\obj\Debug\payrol_with_overtime.pdb

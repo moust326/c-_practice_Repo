@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\C#TASKS FILE\range_chacker_app\range_chacker_app\bin\Debug\range_chacker_app.exe.config
+C:\Users\HP\Desktop\C#TASKS FILE\range_chacker_app\range_chacker_app\bin\Debug\range_chacker_app.exe
+C:\Users\HP\Desktop\C#TASKS FILE\range_chacker_app\range_chacker_app\bin\Debug\range_chacker_app.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\range_chacker_app\range_chacker_app\obj\Debug\range_chacker_app.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#TASKS FILE\range_chacker_app\range_chacker_app\obj\Debug\range_chacker_app.Form1.resources
+C:\Users\HP\Desktop\C#TASKS FILE\range_chacker_app\range_chacker_app\obj\Debug\range_chacker_app.Properties.Resources.resources
+C:\Users\HP\Desktop\C#TASKS FILE\range_chacker_app\range_chacker_app\obj\Debug\range_chacker_app.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#TASKS FILE\range_chacker_app\range_chacker_app\obj\Debug\range_chacker_app.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#TASKS FILE\range_chacker_app\range_chacker_app\obj\Debug\range_chacker_app.exe
+C:\Users\HP\Desktop\C#TASKS FILE\range_chacker_app\range_chacker_app\obj\Debug\range_chacker_app.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\range_chacker_app\range_chacker_app\obj\Debug\range_chacker_app.exe.config

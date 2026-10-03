@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\C#TASKS FILE\test_score_avg\test_score_avg\bin\Debug\test_score_avg.exe.config
+C:\Users\HP\Desktop\C#TASKS FILE\test_score_avg\test_score_avg\bin\Debug\test_score_avg.exe
+C:\Users\HP\Desktop\C#TASKS FILE\test_score_avg\test_score_avg\bin\Debug\test_score_avg.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\test_score_avg\test_score_avg\obj\Debug\test_score_avg.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#TASKS FILE\test_score_avg\test_score_avg\obj\Debug\test_score_avg.Form1.resources
+C:\Users\HP\Desktop\C#TASKS FILE\test_score_avg\test_score_avg\obj\Debug\test_score_avg.Properties.Resources.resources
+C:\Users\HP\Desktop\C#TASKS FILE\test_score_avg\test_score_avg\obj\Debug\test_score_avg.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#TASKS FILE\test_score_avg\test_score_avg\obj\Debug\test_score_avg.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#TASKS FILE\test_score_avg\test_score_avg\obj\Debug\test_score_avg.exe
+C:\Users\HP\Desktop\C#TASKS FILE\test_score_avg\test_score_avg\obj\Debug\test_score_avg.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\test_score_avg\test_score_avg\obj\Debug\test_score_avg.exe.config
