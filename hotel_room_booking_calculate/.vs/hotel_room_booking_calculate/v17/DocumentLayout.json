@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\hotel_room_booking_calculate\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\c#_practice_Repo\\hotel_room_booking_calculate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8822A03E-C33E-497F-B4FF-D4E2D56FFD9E}|hotel_room_booking_calculate\\hotel_room_booking_calculate.csproj|c:\\users\\hp\\desktop\\c#tasks file\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8822A03E-C33E-497F-B4FF-D4E2D56FFD9E}|hotel_room_booking_calculate\\hotel_room_booking_calculate.csproj|solutionrelative:hotel_room_booking_calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8822A03E-C33E-497F-B4FF-D4E2D56FFD9E}|hotel_room_booking_calculate\\hotel_room_booking_calculate.csproj|C:\\Users\\HP\\Desktop\\C#TASKS FILE\\c#_practice_Repo\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8822A03E-C33E-497F-B4FF-D4E2D56FFD9E}|hotel_room_booking_calculate\\hotel_room_booking_calculate.csproj|solutionrelative:hotel_room_booking_calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8822A03E-C33E-497F-B4FF-D4E2D56FFD9E}|hotel_room_booking_calculate\\hotel_room_booking_calculate.csproj|c:\\users\\hp\\desktop\\c#tasks file\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8822A03E-C33E-497F-B4FF-D4E2D56FFD9E}|hotel_room_booking_calculate\\hotel_room_booking_calculate.csproj|solutionrelative:hotel_room_booking_calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8822A03E-C33E-497F-B4FF-D4E2D56FFD9E}|hotel_room_booking_calculate\\hotel_room_booking_calculate.csproj|c:\\users\\hp\\desktop\\c#tasks file\\c#_practice_repo\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8822A03E-C33E-497F-B4FF-D4E2D56FFD9E}|hotel_room_booking_calculate\\hotel_room_booking_calculate.csproj|solutionrelative:hotel_room_booking_calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\c#_practice_Repo\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\Form1.cs",
               "RelativeDocumentMoniker": "hotel_room_booking_calculate\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\c#_practice_Repo\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\Form1.cs",
               "RelativeToolTip": "hotel_room_booking_calculate\\Form1.cs",
-              "ViewState": "AgIAAB0AAAAAAAB6s1IhwDIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T16:51:53.832Z",
               "IsPinned": true,
@@ -44,11 +44,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\c#_practice_Repo\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\Form1.cs",
               "RelativeDocumentMoniker": "hotel_room_booking_calculate\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#TASKS FILE\\c#_practice_Repo\\hotel_room_booking_calculate\\hotel_room_booking_calculate\\Form1.cs [Design]",
               "RelativeToolTip": "hotel_room_booking_calculate\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T16:17:55.34Z",
