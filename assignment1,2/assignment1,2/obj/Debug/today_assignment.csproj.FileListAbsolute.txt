@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\C#TASKS FILE\today_assignment\today_assignment\bin\Debug\today_assignment.exe.config
+C:\Users\HP\Desktop\C#TASKS FILE\today_assignment\today_assignment\bin\Debug\today_assignment.exe
+C:\Users\HP\Desktop\C#TASKS FILE\today_assignment\today_assignment\bin\Debug\today_assignment.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\today_assignment\today_assignment\obj\Debug\today_assignment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#TASKS FILE\today_assignment\today_assignment\obj\Debug\today_assignment.Form1.resources
+C:\Users\HP\Desktop\C#TASKS FILE\today_assignment\today_assignment\obj\Debug\today_assignment.Properties.Resources.resources
+C:\Users\HP\Desktop\C#TASKS FILE\today_assignment\today_assignment\obj\Debug\today_assignment.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#TASKS FILE\today_assignment\today_assignment\obj\Debug\today_assignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#TASKS FILE\today_assignment\today_assignment\obj\Debug\today_assignment.exe
+C:\Users\HP\Desktop\C#TASKS FILE\today_assignment\today_assignment\obj\Debug\today_assignment.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\today_assignment\today_assignment\obj\Debug\today_assignment.exe.config
