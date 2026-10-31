@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\C#TASKS FILE\filespractice2\filespractice2\bin\Debug\filespractice2.exe.config
+C:\Users\HP\Desktop\C#TASKS FILE\filespractice2\filespractice2\bin\Debug\filespractice2.exe
+C:\Users\HP\Desktop\C#TASKS FILE\filespractice2\filespractice2\bin\Debug\filespractice2.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\filespractice2\filespractice2\obj\Debug\filespractice2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#TASKS FILE\filespractice2\filespractice2\obj\Debug\filespractice2.Form1.resources
+C:\Users\HP\Desktop\C#TASKS FILE\filespractice2\filespractice2\obj\Debug\filespractice2.Properties.Resources.resources
+C:\Users\HP\Desktop\C#TASKS FILE\filespractice2\filespractice2\obj\Debug\filespractice2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#TASKS FILE\filespractice2\filespractice2\obj\Debug\filespractice2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#TASKS FILE\filespractice2\filespractice2\obj\Debug\filespractice2.exe
+C:\Users\HP\Desktop\C#TASKS FILE\filespractice2\filespractice2\obj\Debug\filespractice2.pdb
+C:\Users\HP\Desktop\C#TASKS FILE\filespractice2\filespractice2\obj\Debug\filespractice2.exe.config
